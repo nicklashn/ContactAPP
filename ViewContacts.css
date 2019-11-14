@@ -1,0 +1,33 @@
+/*-- micro-clearfix by Nicolas Gallagher*--*/
+.cf:before,
+.cf:after {
+    content: " ";
+    /* 1 */
+    display: table;
+    /* 2 */
+}
+
+.cf:after {
+    clear: both;
+}
+
+/*** For IE 6/7 only*/
+.cf {
+    *zoom: 1;
+}
+
+a{
+    text-decoration: none;
+    color:white;
+}
+li{
+    padding:9px;
+    background-color: lightgrey;
+    margin-top:10px;
+    border-radius: 9px;
+    margin-left:40%;
+    margin-right:40%;
+}
+img{
+    margin-left:40%;
+}
