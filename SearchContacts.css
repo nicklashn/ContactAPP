@@ -1,0 +1,31 @@
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
+
+input {
+    margin-left: 10px;
+    text-align: center;
+    border-radius: 9px;
+}
+
+div a {
+    color: white;
+    background-color: blue;
+    border-radius: 9px;
+    text-decoration: none;
+    padding: 4px;
+    clear: both;
+}
+
+#back a {
+    float: left;
+    background-color: grey;
+    padding: 9px;
+    margin-top: 40px;
+
+}

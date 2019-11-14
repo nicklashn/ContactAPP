@@ -1,0 +1,52 @@
+h1 {
+    color: blue;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+input {
+    border-radius: 9px;
+}
+
+textarea {
+    width: 400px;
+    height: 18px;
+
+}
+
+div {
+    text-align: center;
+}
+
+form,
+input {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+#surname {
+    margin-right: 10px
+}
+
+#name {
+    margin-right: 1px;
+}
+
+div a {
+    color: white;
+    background-color: blue;
+    border-radius: 9px;
+    padding: 8px;
+    display: inline-block;
+    margin-top: 9px;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+    background-color: grey;
+    color: white;
+    border-radius: 9px;
+    padding: 8px;
+}
